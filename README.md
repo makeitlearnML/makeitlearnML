@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @makeitlearnML
 - 👀 I’m a DATA SCIENCE GEEK...
-- I work on  EXPLORATORY DATA ANALYSIS, MACHINE LEARNING, PREDICTIVE MODELLING 
-- 🌱 TOOLS- PYTHON[Numpy,pandas,seaborn,matplotlib, Scikitlearn], advanced SQL queries, MySQL, SQLite, R programming, Data VISUALIZATION 
+- I work on  Web Scraping, DATA ANALYSIS, Database Modelling, PREDICTIVE MODELLINg
+- 🌱 TOOLS- PYTHON[Numpy,pandas,seaborn,matplotlib, Scikitlearn], Advanced SQL queries, MySQL, SQLite, R programming, Data VISUALIZATION 
 makeitlearn:L/makeiearnML is a ✨ special ✨
 --->
