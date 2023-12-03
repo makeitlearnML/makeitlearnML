@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @makeitlearnML 'Farooq'
+- 👋 Hi, I’m @makeitlearnML
 - Works as Software Support Eng.| MSSQL Server | Data Analysis | SQL Queries  
 - 👀 I’m a DATA SCIENCE GEEK..
 - I work on  Web Scraping, DATA ANALYSIS, Database Modelling, PREDICTIVE MODELLINg
