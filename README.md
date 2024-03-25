@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @makeitlearnML
-- I work on  Web Scraping, DATA ANALYSIS, Database Modelling, PREDICTIVE MODELLINg, MSSQL Server | Data Analysis | SQL Queries
-- 🌱 TOOLS- PYTHON[Numpy,pandas,seaborn,matplotlib, Scikitlearn], Advanced SQL queries, MySQL, SQLite, R programming, Data VISUALIZATION  
+- 🌱 I'm a python programmer with skills in Web Scraping, Flask, web dev., PREDICTIVE MODELLINg, MSSQL Server | Data Analysis | SQL Queries, DATA ANALYSIS, Database Modelling,
+  
